@@ -1,0 +1,8 @@
+# STAT365
+We surveyed 295 METU students to gain insight about the factors influencing their career choices. Python was used for data analysis. The data included demographic variables such as faculty and gender, along with responses related to career confidence, external pressures, personal fulfillment, and openness to career changes. 
+
+## Conclusion
+
+This study underscores the diverse factors influencing METU students' career choices, highlighting significant differences between faculties and gender groups. We concluded that financial stability emerges as a more prominent concern for students in economics-related faculties, while gender disparities point to differing experiences of career confidence and external pressure.
+
+Students in the Faculty of Economics exhibited a higher tendency to value financial stability as a critical factor, suggesting a more pragmatic approach to career decision-making compared to their peers in education-related fields. Gender analysis through ANOVA highlighted significant disparities in external pressure and career confidence. Male students demonstrated significantly higher career confidence (mean = 3.76) compared to female students (mean = 3.41), with a p-value < 0.001. Conversely, female students reported experiencing greater external pressure (mean = 2.70) than male students (mean = 2.17), with a p-value < 0.01. These findings suggest that gender influences both self-assurance in career decisions and perceived external expectations. The contrast underscores the need for gender-sensitive interventions that bolster career confidence among female students while mitigating societal or familial pressures.
